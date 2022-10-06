@@ -1,1 +1,0 @@
-Welcome to Basic Practice Problems of Day 1 Assignment.
