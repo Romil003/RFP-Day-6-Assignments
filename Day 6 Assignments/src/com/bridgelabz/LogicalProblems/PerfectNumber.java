@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class PerfectNumber {
 
     static void checkPerfectNumber(int x) {
-        int a = x;
-        int b = x;
+        int a = x ;
+        int b = x ;
         int sum = 0;
         int i;
         for (i = 1; i < a; i++) {
