@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ReverseNumber {
 
     static void method1(int num){
-        int reverseNum = 0;
+        int reverseNum = 0 ;
         while(num != 0){
             int remainder = num%10;
             reverseNum = reverseNum*10 + remainder;
